@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Good Mornig</h1>
+<p1> My Self Shruti Bharat Waghmare</p1>
+</html>
+</body>
